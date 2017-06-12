@@ -2,7 +2,7 @@
 
 ## ****Announcement**** ##
 
-Leetcode has requested me to remove the company metadata and premium question description. I have no enough time recently to modify my codes, so I close my extension on Chrome Store. leetcode extension will return ASAP when I got time to do it. Thank all my supporters.
+Leetcode has requested me to remove the company metadata and premium question description. I have no enough time recently to modify my codes, so I close my extension on Chrome Store.
 
 ## Description
 
